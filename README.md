@@ -18,7 +18,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine using the command 
 ```bash
-git clone https://github.com/example/book-management-system.git
+git clone https://github.com/nischaljain28/bookstore.git
 ```
 
 2. Navigate to the project directory using the command
