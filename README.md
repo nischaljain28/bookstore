@@ -57,7 +57,7 @@ php artisan db:seed
 
 9. Start the server using the command 
 ```bash
-php artisan serve.
+php artisan serve
 ```
 
 10. Login Using the following Credentials 
